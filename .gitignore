@@ -1,0 +1,9 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.DS_Store
+
+.git_old_backup/
+tatus
